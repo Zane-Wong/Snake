@@ -1,6 +1,0 @@
-﻿  贪吃蛇.cpp
-D:\WangZhuo\Documents\projects\C++\Learning\贪吃蛇\贪吃蛇.cpp(76,7): warning C4101: “op”: 未引用的局部变量
-D:\WangZhuo\Documents\projects\C++\Learning\贪吃蛇\贪吃蛇.cpp(105,16): warning C4838: 从“int”转换到“SHORT”需要收缩转换
-D:\WangZhuo\Documents\projects\C++\Learning\贪吃蛇\贪吃蛇.cpp(105,18): warning C4838: 从“int”转换到“SHORT”需要收缩转换
-D:\WangZhuo\Documents\projects\C++\Learning\贪吃蛇\贪吃蛇.cpp(160,16): warning C4244: “初始化”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  贪吃蛇.vcxproj -> D:\WangZhuo\Documents\projects\C++\Learning\x64\Debug\贪吃蛇.exe
